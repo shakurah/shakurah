@@ -1,6 +1,6 @@
 # Hi, I'm Shakurah 👋
 
-I'm a **Software Engineer** and hacker who enjoys building tools, breaking systems, and contributing to open source. My main interests are **security**, **networking**, and anything that deepens my technical skills.
+I'm a **Software Engineer** and hacker who enjoys building tools, breaking systems, and contributing to open source. My main interests are **web**, **security**, and **networking**.
 
 ---
 
